@@ -113,9 +113,9 @@ function loadGiscus() {
     
     // Giscus 설정 - 사용자 정보로 업데이트 필요
     script.setAttribute('data-repo', 'stranger4372-cell/stranger4372-cell.github.io');
-    script.setAttribute('data-repo-id', 'YOUR_REPO_ID');
+    script.setAttribute('data-repo-id', 'R_kgDOSXZjgQ');
     script.setAttribute('data-category', 'General');
-    script.setAttribute('data-category-id', 'YOUR_CATEGORY_ID');
+    script.setAttribute('data-category-id', 'DIC_kwDOSXZjgc4C8jmy');
     script.setAttribute('data-mapping', 'pathname');
     script.setAttribute('data-strict', '0');
     script.setAttribute('data-reactions-enabled', '1');
